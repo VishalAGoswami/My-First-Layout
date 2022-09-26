@@ -18,8 +18,7 @@
         android:layout_marginTop="200dp"
         android:text="00:00"
         android:typeface="normal"
-        android:textSize="80dp"
-        android:textStyle="bold"/>
+        android:textSize="80dp" />
 
 
     <Button
